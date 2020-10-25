@@ -133,10 +133,11 @@ body.dark .btn-toggle .far {
 	letter-spacing: 1px;
     text-align: center;
 }
+
 .card p:first-of-type {
 	margin: 0px;
 	padding: 0px;
-	color: orangered;
+	color: red;
 	letter-spacing: 0px;
 	/* background-color: #FFB6C1; */
 	/* color: black; */
@@ -144,6 +145,7 @@ body.dark .btn-toggle .far {
 	text-align: center;
 	font-size: small;
 }
+
 .card p:last-of-type {
 	text-align: right;
 	padding: 0px;
