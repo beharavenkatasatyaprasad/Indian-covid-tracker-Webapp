@@ -5,7 +5,7 @@ Thanks for checking out this repo [Indian-covid-tracker-Webapp](https://github.c
 Click [here](https://covid19-india-webapp.netlify.app/) to preview the app.
 ## The Webapp
 
-This app is to integrate myself with the [Covid API](https://api.covid19india.org) to pull data and display it.
+This app is to integrate myself with the [Covid India API](https://api.covid19india.org) to pull data and display it.
 
 I have used HTML,CSS & JavaScript on the front-end to develop this particular Webapp.
 
